@@ -2,10 +2,9 @@
 
 Frontend-focused developer building responsive web interfaces and landing pages using HTML, CSS and JavaScript.
 
-- 🚧 Currently Building a Frontend mini project
-🛠️ Upcoming Project: JavaScript interactive demo
-📚 Learning & Experiments
-    Reusable UI component project
+- 🚧 Currently Building a Frontend mini project 
+- 🛠️ Upcoming Project: JavaScript interactive demo
+- 📚 Learning & Experiments Reusable UI component project
 - 🌱 I’m currently learning Python
 - 💬 Ask me about: Responsive frontend development, HTML, CSS and JavaScript, UI/UX improvements, Accessibility best practices, Git and GitHub workflows
 - ⚡ Fun fact: My first programming language was COBOL and my first object oriented programming language was Turbo C++
