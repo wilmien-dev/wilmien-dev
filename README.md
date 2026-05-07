@@ -1,4 +1,4 @@
-## Hi, I'm Wilmien 👋
+## Hi, I'm Willemina 👋
 
 Frontend-focused developer building responsive web interfaces and landing pages using HTML, CSS and JavaScript.
 
