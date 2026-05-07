@@ -25,10 +25,11 @@ Frontend-focused developer building responsive web interfaces and landing pages 
 - [FocusFlow Landing Page](https://wilmien-dev.github.io/focusflow-landing-page/)  
   Responsive SaaS-style landing page built with HTML, CSS and JavaScript
 
+<!--
  ## 📈 GitHub Stats
 
 ![Wilmien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilmien-dev&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilmien-dev&layout=compact&theme=dark)
 
-
+-->
