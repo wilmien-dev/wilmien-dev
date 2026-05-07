@@ -2,10 +2,8 @@
 
 Frontend-focused developer building responsive web interfaces and landing pages using HTML, CSS and JavaScript.
 
-- 🚧 Currently Building
-     Frontend mini project
-🛠️ Upcoming Projects
-     JavaScript interactive demo
+- 🚧 Currently Building a Frontend mini project
+🛠️ Upcoming Project: JavaScript interactive demo
 📚 Learning & Experiments
     Reusable UI component project
 - 🌱 I’m currently learning Python
@@ -25,15 +23,12 @@ Frontend-focused developer building responsive web interfaces and landing pages 
 ## 📝 Featured Projects
 
 - [FocusFlow Landing Page](https://wilmien-dev.github.io/focusflow-landing-page/)  
-  Responsive SaaS-style landing page built with HTML, CSS and JavaScript.
+  Responsive SaaS-style landing page built with HTML, CSS and JavaScript
 
-- [FocusFlow GitHub Repository](https://github.com/wilmien-dev/focusflow-landing-page)  
-  Clean frontend code, responsive layout, UI interactions and documentation.
-<!--
  ## 📈 GitHub Stats
 
 ![Wilmien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilmien-dev&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilmien-dev&layout=compact&theme=dark)
--->
+
 
