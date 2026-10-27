@@ -42,6 +42,14 @@
 - [FocusFlow Landing Page](https://wilmien-dev.github.io/focusflow-landing-page/)  
   Responsive SaaS-style landing page built with HTML, CSS and JavaScript
 
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wilmien-dev&theme=dark&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=wilmien-dev&theme=dark&hide_border=false)
+
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=wilmien-dev&theme=dark&hide_border=false&layout=compact&langs_count=6)
 <!--
  ## 📈 GitHub Stats
 
