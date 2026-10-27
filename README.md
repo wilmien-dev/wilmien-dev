@@ -6,7 +6,7 @@ Frontend-focused developer building responsive web interfaces and landing pages 
 - 💬 Ask me about: Responsive frontend development, HTML, CSS and JavaScript, UI/UX improvements, Accessibility best practices, Git and GitHub workflows
 - ⚡ Developer journey: I started programming with COBOL and Turbo C++, and today I focus on building responsive, user-friendly web experiences.
 
-## 💼 Technical Skills
+## 💼 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)
