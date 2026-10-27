@@ -15,6 +15,8 @@
 ![Git](https://img.shields.io/badge/Tools-Git-red?logo=git)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-black?logo=github)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode)
+
+![Postgres](https://img.shields.io/badge/Code-postgres-orange?logo=postgres)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
