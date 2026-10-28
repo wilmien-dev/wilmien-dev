@@ -20,6 +20,11 @@ I'm a ![Freelance Frontend Developer](https://img.shields.io/badge/Freelance-Fro
 ![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub_Pages-222222?logo=githubpages&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Hosting-Netlify-00C7B7?logo=netlify&logoColor=white)
 
+<!--
+[![Certified ScrumMaster](https://img.shields.io/badge/Scrum_Alliance-Certified_ScrumMaster-009FDA?style=flat)](https://badgecert.com/bc/html/publicgroup.html?k=V1BsYjAwQzhxRmF2ZkxnOW1xZzhTVGs0cTkybW0yb2Q)
+-->
+
+
 ## 💼 Previous Technologies & Tools
 
 ![.NET](https://img.shields.io/badge/Framework-.NET-512BD4?logo=dotnet&logoColor=white)
