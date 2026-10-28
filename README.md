@@ -1,10 +1,10 @@
 ## Hi, I'm Willemina 👋
 
-![Freelancer](https://img.shields.io/badge/Freelancer-%2329B2FE.svg?style=for-the-badge&logo=Freelancer&logoColor=white) Frontend-focused developer building responsive web interfaces and landing pages using HTML, CSS and JavaScript.
+I'm a ![Freelance Frontend Developer](https://img.shields.io/badge/Freelance-Frontend_Developer-0078D4) building responsive websites and landing pages with HTML, CSS and JavaScript. I focus on clean layouts, intuitive interactions and a consistent experience across screen sizes.
 
-- 🚧 Currently Building frontend mini projects
-- 💬 Ask me about: Responsive frontend development, HTML, CSS and JavaScript, UI/UX improvements, Accessibility best practices, Git and GitHub workflows
-- ⚡ Developer journey: I started programming with COBOL and Turbo C++, and today I focus on building responsive, user-friendly web experiences.
+- 🚧 **Currently building:** Frontend projects to grow my portfolio and sharpen my skills.
+- 💬 **Ask me about:** Responsive design, HTML, CSS, JavaScript, usability improvements, Accessibility best practices, Git and GitHub workflows.
+- ⚡ **My developer journey:** I started programming with COBOL and Turbo C++, later worked with Visual Basic and .NET, and now focus on frontend web development.
 
 ## 💼 Current Tech Stack
 
@@ -26,23 +26,29 @@
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white)
 ![Visual Basic 6](https://img.shields.io/badge/Language-Visual_Basic_6-512BD4)
+![Classic ASP](https://img.shields.io/badge/Backend-Classic_ASP-0078D4)
 ![VB.NET](https://img.shields.io/badge/Language-VB.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Web Forms](https://img.shields.io/badge/Framework-ASP.NET_Web_Forms-512BD4?logo=dotnet&logoColor=white)
 ![C#.NET](https://img.shields.io/badge/Language-C%23.NET-512BD4?logo=dotnet&logoColor=white)
 ![HTML](https://img.shields.io/badge/Frontend-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/Frontend-CSS-663399?logo=css&logoColor=white)
 ![Vanilla JavaScript](https://img.shields.io/badge/Frontend-JavaScript_(Vanilla)-F7DF1E?logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle&logoColor=white)
-![HTML](https://img.shields.io/badge/Frontend-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Frontend-CSS-663399?logo=css&logoColor=white)
 ![Postman](https://img.shields.io/badge/API_Testing-Postman-FF6C37?logo=postman&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Platform-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
-
+![SOAP Web Services](https://img.shields.io/badge/API-SOAP_Web_Services-00599C)
+![REST APIs](https://img.shields.io/badge/API-REST_APIs-009688)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-CC2927)
+![T-SQL](https://img.shields.io/badge/Language-T--SQL-0078D4)
+![Oracle Database](https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle&logoColor=white)
 
 ## 📝 Featured Projects
 
 - [FocusFlow Landing Page](https://wilmien-dev.github.io/focusflow-landing-page/)  
-  Responsive SaaS-style landing page built with HTML, CSS and JavaScript
+  Responsive SaaS-style landing page
+  
+  ![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css&logoColor=white) and ![Vanilla JavaScript](https://img.shields.io/badge/Frontend-JavaScript_(Vanilla)-F7DF1E?logo=javascript&logoColor=black) ![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub_Pages-222222?logo=githubpages&logoColor=white)
 
 
 ## 📊 GitHub Stats:
