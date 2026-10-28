@@ -58,11 +58,4 @@ I'm a ![Freelance Frontend Developer](https://img.shields.io/badge/Freelance-Fro
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wilmien-dev&theme=dark&hide_border=false)
 
 ![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=wilmien-dev&theme=dark&hide_border=false&layout=compact&langs_count=6)
-<!--
- ## 📈 GitHub Stats
 
-![Wilmien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilmien-dev&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilmien-dev&layout=compact&theme=dark)
-
--->
