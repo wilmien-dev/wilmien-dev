@@ -6,7 +6,7 @@ I'm a ![Freelance Frontend Developer](https://img.shields.io/badge/Freelance-Fro
 - 💬 **Ask me about:** Responsive design, HTML, CSS, JavaScript, usability improvements, Accessibility best practices, Git and GitHub workflows.
 - ⚡ **My developer journey:** I started programming with COBOL and Turbo C++, later worked with Visual Basic and .NET, and now focus on frontend web development.
 
-## 💼 Current Tech Stack
+## 💼 Current Tech Stack & Skills
 
 ![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css&logoColor=white) 
