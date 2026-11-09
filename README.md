@@ -2,7 +2,8 @@
 
 - 💻 I'm a Front-End Developer building responsive websites and landing pages. 
 
-- 🎯 I focus on clean layouts, intuitive interactions and a consistent experience across screen sizes and clean scalable code.
+🎯 I build responsive websites with clean layouts, intuitive interactions, and maintainable code that can grow with your project. I communicate clearly, keep you updated, and deliver on time. 
+If you’re looking for a reliable front-end developer, let’s talk about what you’re building.
 
 - 🚧 **Currently building:** Front-End projects and is open to learning and growing with every project.
 <br>
