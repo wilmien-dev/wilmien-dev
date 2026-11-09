@@ -96,8 +96,13 @@ Hosting & Deployment
 - [FocusFlow Landing Page](https://wilmien-dev.github.io/focusflow-landing-page/)  
   Responsive SaaS-style landing page
   
-  ![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/Frontend-JavaScript_-F7DF1E?logo=javascript&logoColor=black) ![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub_Pages-222222?logo=githubpages&logoColor=white)
+    <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    </p>
 
 
 ## 📊 GitHub Stats:
